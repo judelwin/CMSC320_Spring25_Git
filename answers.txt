@@ -4,3 +4,10 @@ Answer: Version Tracking, Reverting Changes, working with others.
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Medical field! There is a ton of medical data that can be analyzed and used to make decisions
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging keeps the history of both branches where rebasing applies commits from one to the other like a sequence.
+Q4: What are you looking forward to this semester?
+
+Answer: Learning all python things!
